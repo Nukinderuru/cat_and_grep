@@ -11,6 +11,7 @@ Here you can find my implementations of these basic utils.
 	*  -s, --squeeze-blank      suppress repeated empty output lines
 	*  -t                       display non-printing characters using ^ and M-notation, except for LFD,  display TAB characters as ^I
 	*  -v, --show-nonprinting   use ^ and M- notation, except for and TAB
+	
 	The flags work both separately and combined.
 
 * Grep program works with these flags:
